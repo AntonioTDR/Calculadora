@@ -1,3 +1,5 @@
+package calculadorajunit;
+
 //Classe de Multiplicação.
 public class Multiplicacao { // A classe Multiplicacao contém métodos relacionados à operação de
                              // multiplicação entre dois números.
@@ -13,5 +15,9 @@ public class Multiplicacao { // A classe Multiplicacao contém métodos relacion
 
         // Realiza a operação de multiplicação entre num1 e num2 e retorna o resultado.
 
+    }
+
+    public int multi(int i, int j) {
+        return 0;
     }
 }
