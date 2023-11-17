@@ -1,3 +1,5 @@
+package calculadorajunit;
+
 //Classe de Divisão.
 public class Divisao { // A classe Divisao contém métodos relacionados à operação de divisão entre dois
                        // números.
@@ -19,5 +21,9 @@ public class Divisao { // A classe Divisao contém métodos relacionados à oper
             // resultado.
         }
         return num1 / num2; // Resultado
+    }
+
+    public int div(int i, int j) {
+        return 0;
     }
 }

@@ -1,3 +1,5 @@
+package calculadorajunit;
+
 //Classe de Soma.
 public class Soma { // A classe Soma contém métodos relacionados à operação de soma entre dois
                     // números.
@@ -12,5 +14,9 @@ public class Soma { // A classe Soma contém métodos relacionados à operação
         // param num2 (double): O segundo número.
         return num1 + num2; // Resultado da soma.
         // Realiza a operação de soma entre num1 e num2 e retorna o resultado.
+    }
+
+    public int soma(int i, int j) {
+        return 0;
     }
 }

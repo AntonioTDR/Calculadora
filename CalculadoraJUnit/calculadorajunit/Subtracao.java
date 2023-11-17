@@ -1,3 +1,4 @@
+package calculadorajunit;
 //Classe de Subtração.
 public class Subtracao { // A classe Subtracao contém métodos relacionados à operação de subtração entre
                          // dois números.
@@ -12,5 +13,9 @@ public class Subtracao { // A classe Subtracao contém métodos relacionados à 
         // num2 (double): O segundo número.
         return num1 - num2; // Resultado da subtração.
 
+    }
+
+    public int sub(int i, int j) {
+        return 0;
     }
 }
